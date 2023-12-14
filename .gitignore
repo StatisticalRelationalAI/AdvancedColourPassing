@@ -1,4 +1,5 @@
 *.blog
+*.pdf
 *.ser
 *.csv
 .DS_Store
