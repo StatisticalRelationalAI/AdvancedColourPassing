@@ -1,0 +1,7 @@
+*.blog
+*.ser
+*.csv
+.DS_Store
+.RData
+.Rhistory
+.vscode
